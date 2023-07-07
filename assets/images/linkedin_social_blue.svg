@@ -1,0 +1,21 @@
+<svg id="Work-Table" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.953" y1="0.267" x2="0.01" y2="0.751" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00b5c5"/>
+      <stop offset="0.497" stop-color="#00b5c5"/>
+      <stop offset="1" stop-color="#00b5c5"/>
+    </linearGradient>
+  </defs>
+  <g id="iconpro-homepage-5h" transform="translate(-1578 -6273)">
+    <g id="Group-24" transform="translate(0 5347)">
+      <g id="Group-13" transform="translate(0 330)">
+        <g id="Group-12" transform="translate(0 366)">
+          <g id="_216394_linkedin_social_icon" data-name="216394_linkedin_social_icon" transform="translate(1578 230)">
+            <path id="Shape" d="M5.143,24H0V7H5.143ZM24,24H18.857V14.919c0-2.366-.85-3.545-2.535-3.545a2.53,2.53,0,0,0-2.607,1.981V24H8.571s.069-15.3,0-17h4.059l.314,3.4h.106A5.733,5.733,0,0,1,18.1,7.547a5.347,5.347,0,0,1,4.263,1.7A7.317,7.317,0,0,1,24,14.4Z" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+            <ellipse id="Oval" cx="3" cy="2.5" rx="3" ry="2.5" fill="url(#linear-gradient)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

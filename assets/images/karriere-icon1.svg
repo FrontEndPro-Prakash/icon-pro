@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="42px" viewBox="0 0 31 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>A1071DD5-6D0A-4B49-BD48-42F7A0419915</title>
+    <defs>
+        <polygon id="path-1" points="0 0 8.562594 0 8.562594 8.56268819 0 8.56268819"></polygon>
+    </defs>
+    <g id="Handed-Over" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Karriere" transform="translate(-308.000000, -3021.000000)">
+            <g id="Group-12" transform="translate(260.000000, 2786.000000)">
+                <g id="Group-11" transform="translate(48.000000, 235.000000)">
+                    <polygon id="Fill-1" fill="#ACC969" points="0 0.238240552 0 41.9962708 30.8384624 41.9962708 30.8384624 11.057966 28.6403573 11.057966 28.6403573 39.7984798 2.19779107 39.7984798 2.19779107 2.43603162 19.8011556 2.43603162 19.8011556 0.238240552"></polygon>
+                    <polygon id="Fill-2" fill="#ACC969" points="4.75664781 11.3384041 14.5669592 11.3384041 14.5669592 9.14061305 4.75664781 9.14061305"></polygon>
+                    <polygon id="Fill-3" fill="#ACC969" points="4.59432524 16.7302136 24.3640838 16.7302136 24.3640838 14.5324225 4.59432524 14.5324225"></polygon>
+                    <polygon id="Fill-4" fill="#ACC969" points="4.59432524 21.3072704 24.3640838 21.3072704 24.3640838 19.1094794 4.59432524 19.1094794"></polygon>
+                    <polygon id="Fill-5" fill="#ACC969" points="4.59432524 25.8833854 24.3640838 25.8833854 24.3640838 23.6855943 4.59432524 23.6855943"></polygon>
+                    <polygon id="Fill-6" fill="#ACC969" points="4.59432524 30.4598144 24.2334723 30.4598144 24.2334723 28.2620233 4.59432524 28.2620233"></polygon>
+                    <polygon id="Fill-7" fill="#ACC969" points="4.59432524 35.0767454 11.5905222 35.0767454 11.5905222 32.8789544 4.59432524 32.8789544"></polygon>
+                    <g id="Group-10" transform="translate(22.437406, 0.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-9"></g>
+                        <path d="M4.281297,8.56268819 C6.64580622,8.56268819 8.562594,6.64590041 8.562594,4.28139119 C8.562594,1.916568 6.64580622,-0.000219779107 4.281297,-0.000219779107 C1.91678778,-0.000219779107 0,1.916568 0,4.28139119 C0,6.64590041 1.91678778,8.56268819 4.281297,8.56268819" id="Fill-8" fill="#ACC969" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

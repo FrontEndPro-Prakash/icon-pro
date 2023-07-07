@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="Group_3" data-name="Group 3" transform="translate(-1029 -10862)">
+    <g id="_31-Clock" data-name="31-Clock" transform="translate(1030 10863)">
+      <path id="Shape" d="M0,23A23,23,0,1,1,23,46,23,23,0,0,1,0,23Z" fill="none" stroke="#8aecff" stroke-width="2"/>
+      <path id="Path" d="M1.437,20.125A1.437,1.437,0,0,1,.421,17.671L7.187,10.9V1.438a1.438,1.438,0,1,1,2.875,0V11.5a1.437,1.437,0,0,1-.421,1.016L2.454,19.7A1.437,1.437,0,0,1,1.437,20.125Z" transform="translate(14.375 12.938)" fill="#8aecff"/>
+      <circle id="Oval" cx="1.438" cy="1.438" r="1.438" transform="translate(21.563 5.75)" fill="#8aecff"/>
+      <circle id="Oval-2" data-name="Oval" cx="1.438" cy="1.438" r="1.438" transform="translate(21.563 37.375)" fill="#8aecff"/>
+      <circle id="Oval-3" data-name="Oval" cx="1.438" cy="1.438" r="1.438" transform="translate(5.75 21.563)" fill="#8aecff"/>
+      <circle id="Oval-4" data-name="Oval" cx="1.438" cy="1.438" r="1.438" transform="translate(37.375 21.563)" fill="#8aecff"/>
+    </g>
+  </g>
+</svg>

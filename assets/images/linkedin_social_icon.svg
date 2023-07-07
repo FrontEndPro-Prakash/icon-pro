@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>09000F87-1A24-4003-A948-6F8A2CE8A3CC</title>
+    <defs>
+        <linearGradient x1="95.327007%" y1="26.7250004%" x2="1.01527207%" y2="75.0868056%" id="linearGradient-1">
+            <stop stop-color="#458450" offset="0%"></stop>
+            <stop stop-color="#509F89" offset="49.7216605%"></stop>
+            <stop stop-color="#4A9299" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="95.327007%" y1="26.7250004%" x2="1.01527207%" y2="75.0868056%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="49.7216605%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="95.327007%" y1="17.7854677%" x2="1.01527207%" y2="84.7222222%" id="linearGradient-3">
+            <stop stop-color="#458450" offset="0%"></stop>
+            <stop stop-color="#509F89" offset="49.7216605%"></stop>
+            <stop stop-color="#4A9299" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="95.327007%" y1="17.7854677%" x2="1.01527207%" y2="84.7222222%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="49.7216605%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Work-Table" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iconpro-homepage-5h" transform="translate(-1578.000000, -6273.000000)">
+            <g id="Group-24" transform="translate(0.000000, 5347.000000)">
+                <g id="Group-13" transform="translate(0.000000, 330.000000)">
+                    <g id="Group-12" transform="translate(0.000000, 366.000000)">
+                        <g id="216394_linkedin_social_icon" transform="translate(1578.000000, 230.000000)">
+                            <path d="M5.14285714,24 L0,24 L0,7 L5.14285714,7 L5.14285714,24 Z M24,24 L18.8571429,24 L18.8571429,14.9186 C18.8571429,12.5522 18.0068571,11.3741 16.3217143,11.3741 C14.9862857,11.3741 14.1394286,12.0337 13.7142857,13.3546 C13.7142857,15.5 13.7142857,24 13.7142857,24 L8.57142857,24 C8.57142857,24 8.64,8.7 8.57142857,7 L12.6308571,7 L12.9445714,10.4 L13.0508571,10.4 C14.1051429,8.7 15.7902857,7.5474 18.1011429,7.5474 C19.8582857,7.5474 21.2794286,8.0319 22.3645714,9.2491 C23.4565714,10.468 24,12.1034 24,14.4001 L24,24 Z" id="Shape" fill="url(#linearGradient-2)"></path>
+                            <ellipse id="Oval" fill="url(#linearGradient-4)" cx="3" cy="2.5" rx="3" ry="2.5"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

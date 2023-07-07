@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="178.13" height="169.634" viewBox="0 0 178.13 169.634">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.523" cy="0.375" r="0.653" gradientTransform="translate(0.075) scale(0.857 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ecedf7"/>
+      <stop offset="0.2" stop-color="#ecedf7" stop-opacity="0.988"/>
+      <stop offset="0.34" stop-color="#ecedf7" stop-opacity="0.949"/>
+      <stop offset="0.46" stop-color="#ecedf7" stop-opacity="0.89"/>
+      <stop offset="0.56" stop-color="#ecedf7" stop-opacity="0.812"/>
+      <stop offset="0.66" stop-color="#ecedf7" stop-opacity="0.69"/>
+      <stop offset="0.75" stop-color="#ecedf7" stop-opacity="0.561"/>
+      <stop offset="0.84" stop-color="#ecedf7" stop-opacity="0.388"/>
+      <stop offset="0.92" stop-color="#ecedf7" stop-opacity="0.212"/>
+      <stop offset="1" stop-color="#ecedf7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="0.347" y1="0.503" x2="0.926" y2="0.492" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7abd6c"/>
+      <stop offset="1" stop-color="#00adbc"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_946" data-name="Group 946" transform="translate(515 -1365)">
+    <g id="Group_945" data-name="Group 945">
+      <g id="_15-Dec" data-name="15-Dec" transform="translate(-532 1353)">
+        <g id="_-service-datenanalysen" data-name="-service-datenanalysen" transform="translate(-452 -1697)">
+          <circle id="Oval" cx="84.81" cy="84.81" r="84.81" transform="translate(469 1709)" fill="#ecedf7"/>
+          <path id="Path" d="M150.07,42.25,20.91,126.01l40.25,40.25A84.79,84.79,0,0,0,164.98,57.17Z" transform="translate(469 1709)" fill="url(#radial-gradient)"/>
+          <rect id="Rectangle" width="27.54" height="36.45" transform="translate(540.61 1817.3)" fill="#cfd5ec"/>
+          <rect id="Rectangle-2" data-name="Rectangle" width="43.12" height="2.85" transform="translate(532.82 1850.9)" fill="#bdc2e2"/>
+          <rect id="Rectangle-3" data-name="Rectangle" width="130.6" height="85.91" rx="2.82" transform="translate(489.09 1749.86)" fill="#0d5a58"/>
+          <rect id="Rectangle-4" data-name="Rectangle" width="81.72" height="126.41" rx="0.73" transform="translate(617.59 1751.95) rotate(90)" fill="url(#linear-gradient)"/>
+          <rect id="Rectangle-5" data-name="Rectangle" width="64.95" height="109.64" rx="1.17" transform="translate(609.2 1760.33) rotate(90)" fill="#64bd62" opacity="0.4"/>
+          <g id="Group" transform="translate(512.59 1772.26)" opacity="0.34">
+            <rect id="Rectangle-6" data-name="Rectangle" width="52.12" height="3.14" fill="#f7f9fd"/>
+            <rect id="Rectangle-7" data-name="Rectangle" width="22.41" height="3.14" transform="translate(60.76)" fill="#f7f9fd"/>
+            <rect id="Rectangle-8" data-name="Rectangle" width="52.12" height="3.14" transform="translate(0 7.63)" fill="#f7f9fd"/>
+            <rect id="Rectangle-9" data-name="Rectangle" width="22.41" height="3.14" transform="translate(60.76 7.63)" fill="#f7f9fd"/>
+            <rect id="Rectangle-10" data-name="Rectangle" width="52.12" height="3.14" transform="translate(0 15.25)" fill="#f7f9fd"/>
+            <rect id="Rectangle-11" data-name="Rectangle" width="22.41" height="3.14" transform="translate(60.76 15.25)" fill="#f7f9fd"/>
+            <rect id="Rectangle-12" data-name="Rectangle" width="52.12" height="3.14" transform="translate(0 22.87)" fill="#f7f9fd"/>
+            <rect id="Rectangle-13" data-name="Rectangle" width="22.41" height="3.14" transform="translate(60.76 22.87)" fill="#f7f9fd"/>
+            <rect id="Rectangle-14" data-name="Rectangle" width="52.12" height="3.14" transform="translate(0 30.49)" fill="#f7f9fd"/>
+            <rect id="Rectangle-15" data-name="Rectangle" width="22.41" height="3.14" transform="translate(60.76 30.49)" fill="#f7f9fd"/>
+            <rect id="Rectangle-16" data-name="Rectangle" width="52.12" height="3.14" transform="translate(0 38.12)" fill="#f7f9fd"/>
+            <rect id="Rectangle-17" data-name="Rectangle" width="22.41" height="3.14" transform="translate(60.76 38.12)" fill="#f7f9fd"/>
+          </g>
+          <path id="Path-2" data-name="Path" d="M113.35,98.64H96.89a.71.71,0,0,1-.71-.71v-4a.72.72,0,0,0-1.14-.57l-12.2,9a.7.7,0,0,0,0,1.14l12.2,9a.72.72,0,0,0,1.14-.57v-4a.71.71,0,0,1,.71-.71h16.46a.71.71,0,0,0,.71-.71V99.23A.71.71,0,0,0,113.35,98.64Z" transform="translate(469 1709)" fill="#f4d917"/>
+          <rect id="Rectangle-18" data-name="Rectangle" width="58.86" height="74.2" transform="translate(588.27 1779.6)" fill="#fbfbfb"/>
+          <rect id="Rectangle-19" data-name="Rectangle" width="39.53" height="5.07" transform="translate(597.94 1791.36)" fill="#f4d917"/>
+          <rect id="Rectangle-20" data-name="Rectangle" width="25.46" height="2.53" transform="translate(597.94 1801.61)" fill="#cfd5ec"/>
+          <rect id="Rectangle-21" data-name="Rectangle" width="11.68" height="2.53" transform="translate(625.79 1801.61)" fill="#cfd5ec"/>
+          <rect id="Rectangle-22" data-name="Rectangle" width="25.46" height="2.53" transform="translate(597.94 1806.84)" fill="#cfd5ec"/>
+          <rect id="Rectangle-23" data-name="Rectangle" width="11.68" height="2.53" transform="translate(625.79 1806.84)" fill="#cfd5ec"/>
+          <rect id="Rectangle-24" data-name="Rectangle" width="25.46" height="2.53" transform="translate(597.94 1812.07)" fill="#cfd5ec"/>
+          <rect id="Rectangle-25" data-name="Rectangle" width="11.68" height="2.53" transform="translate(625.79 1812.07)" fill="#cfd5ec"/>
+          <rect id="Rectangle-26" data-name="Rectangle" width="25.46" height="2.53" transform="translate(597.94 1817.3)" fill="#cfd5ec"/>
+          <rect id="Rectangle-27" data-name="Rectangle" width="11.68" height="2.53" transform="translate(625.79 1817.3)" fill="#cfd5ec"/>
+          <rect id="Rectangle-28" data-name="Rectangle" width="25.46" height="2.53" transform="translate(597.94 1822.53)" fill="#cfd5ec"/>
+          <rect id="Rectangle-29" data-name="Rectangle" width="11.68" height="2.53" transform="translate(625.79 1822.53)" fill="#cfd5ec"/>
+          <rect id="Rectangle-30" data-name="Rectangle" width="25.46" height="2.53" transform="translate(597.94 1827.76)" fill="#cfd5ec"/>
+          <rect id="Rectangle-31" data-name="Rectangle" width="11.68" height="2.53" transform="translate(625.79 1827.76)" fill="#cfd5ec"/>
+          <rect id="Rectangle-32" data-name="Rectangle" width="25.46" height="2.53" transform="translate(597.94 1832.99)" fill="#cfd5ec"/>
+          <rect id="Rectangle-33" data-name="Rectangle" width="11.68" height="2.53" transform="translate(625.79 1832.99)" fill="#cfd5ec"/>
+          <rect id="Rectangle-34" data-name="Rectangle" width="25.46" height="2.53" transform="translate(597.94 1838.22)" fill="#cfd5ec"/>
+          <rect id="Rectangle-35" data-name="Rectangle" width="11.68" height="2.53" transform="translate(625.79 1838.22)" fill="#cfd5ec"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

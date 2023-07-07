@@ -1,0 +1,20 @@
+<svg id="Work-Table" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11" height="24" viewBox="0 0 11 24">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.595" y1="0.036" x2="0.397" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00b5c5"/>
+      <stop offset="0.497" stop-color="#00b5c5"/>
+      <stop offset="1" stop-color="#00b5c5"/>
+    </linearGradient>
+  </defs>
+  <g id="iconpro-homepage-5h" transform="translate(-1551 -6273)">
+    <g id="Group-24" transform="translate(0 5347)">
+      <g id="Group-13" transform="translate(0 330)">
+        <g id="Group-12" transform="translate(0 366)">
+          <g id="_104498_facebook_icon" data-name="104498_facebook_icon" transform="translate(1551 230)">
+            <path id="Path" d="M11,7.771H7.254V5.28A1.007,1.007,0,0,1,8.3,4.127H10.94V.014L7.3,0C3.257,0,2.337,3.067,2.337,5.03V7.771H0v4.238H2.337V24H7.254V12.009h3.317Z" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

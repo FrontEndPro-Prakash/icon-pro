@@ -1,0 +1,21 @@
+<svg id="Group_27" data-name="Group 27" xmlns="http://www.w3.org/2000/svg" width="235" height="235" viewBox="0 0 235 235">
+  <g id="Group_3" data-name="Group 3">
+    <path id="Path" d="M99,0a99,99,0,1,0,99,99A99,99,0,0,0,99,0Z" transform="translate(18 18)" fill="#edf3fc"/>
+    <path id="Shape" d="M0,117.5A117.5,117.5,0,1,1,117.5,235,117.633,117.633,0,0,1,0,117.5Z" fill="#edf3fc"/>
+  </g>
+  <g id="Group_21" data-name="Group 21" transform="translate(76.902 74.904)">
+    <path id="Path-2" data-name="Path" d="M27.445,0H2.408a2.408,2.408,0,0,0,0,4.815H27.445a2.408,2.408,0,1,0,0-4.815Z" fill="#45afc3"/>
+    <rect id="Rectangle" width="84" height="30" rx="8" transform="translate(0.098 69.096)" fill="#45afc3"/>
+    <path id="Path-3" data-name="Path" d="M37.075,0H2.408a2.408,2.408,0,0,0,0,4.815H37.075a2.408,2.408,0,1,0,0-4.815Z" transform="translate(0 15.987)" fill="#45afc3"/>
+    <path id="Path-4" data-name="Path" d="M58.744,0H2.408a2.408,2.408,0,0,0,0,4.815H58.744a2.408,2.408,0,1,0,0-4.815Z" transform="translate(0 33.61)" fill="#45afc3"/>
+    <path id="Path-5" data-name="Path" d="M58.744,0H2.408a2.408,2.408,0,0,0,0,4.815H58.744a2.408,2.408,0,1,0,0-4.815Z" transform="translate(0 51.908)" fill="#45afc3"/>
+  </g>
+  <g id="_31-Clock" data-name="31-Clock" transform="translate(121 55)">
+    <path id="Shape-2" data-name="Shape" d="M0,23A23,23,0,1,1,23,46,23,23,0,0,1,0,23Z"/>
+    <path id="Path-6" data-name="Path" d="M1.437,20.125A1.437,1.437,0,0,1,.421,17.671L7.187,10.9V1.438a1.438,1.438,0,1,1,2.875,0V11.5a1.437,1.437,0,0,1-.421,1.016L2.454,19.7A1.437,1.437,0,0,1,1.437,20.125Z" transform="translate(14.375 12.938)"/>
+    <circle id="Oval" cx="1.438" cy="1.438" r="1.438" transform="translate(21.563 5.75)"/>
+    <circle id="Oval-2" data-name="Oval" cx="1.438" cy="1.438" r="1.438" transform="translate(21.563 37.375)"/>
+    <circle id="Oval-3" data-name="Oval" cx="1.438" cy="1.438" r="1.438" transform="translate(5.75 21.563)"/>
+    <circle id="Oval-4" data-name="Oval" cx="1.438" cy="1.438" r="1.438" transform="translate(37.375 21.563)"/>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'R-Flex';
+    src: local('R-Flex Regular'), local('R-Flex-Regular'),
+        url('RFlexRegular.woff2') format('woff2'),
+        url('RFlexRegular.woff') format('woff'),
+        url('RFlexRegular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'R-Flex';
+    src: local('R-Flex Light'), local('R-Flex-Light'),
+        url('RFlex-Light.woff2') format('woff2'),
+        url('RFlex-Light.woff') format('woff'),
+        url('RFlex-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'R-Flex';
+    src: local('R-Flex Medium'), local('R-Flex-Medium'),
+        url('RFlex-Medium.woff2') format('woff2'),
+        url('RFlex-Medium.woff') format('woff'),
+        url('RFlex-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="109px" height="128px" viewBox="0 0 109 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>0A0E98DF-67D7-48AA-87D0-8278108E7C65</title>
+    <defs>
+        <linearGradient x1="57.9376221%" y1="0%" x2="44.420563%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#45AFC3" offset="0%"></stop>
+            <stop stop-color="#5BB3AF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Handed-Over" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Karriere" transform="translate(-907.000000, -5801.000000)">
+            <g id="Group-20" transform="translate(0.000000, 5140.000000)">
+                <g id="Group-24" transform="translate(907.000000, 661.000000)">
+                    <circle id="Oval" stroke="#45AFC3" stroke-width="5" cx="54.5" cy="65.5" r="52"></circle>
+                    <text id="€" fill="url(#linearGradient-1)" fill-rule="nonzero" font-family="RFlex-Light, R-Flex" font-size="94" font-weight="300" letter-spacing="-0.979166667">
+                        <tspan x="28.2845833" y="97">€</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

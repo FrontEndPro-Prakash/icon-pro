@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_1" data-name="Group 1" transform="translate(-422 -237)">
+    <circle id="Oval" cx="16" cy="16" r="16" transform="translate(422 237)" fill="none"/>
+    <g id="Group_7" data-name="Group 7" transform="translate(431 246)">
+      <path id="Line_3" data-name="Line 3" d="M.5.5v14" transform="translate(6.5)" fill="none" stroke="#45afc3" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Line_3-2" data-name="Line 3" d="M0,.5H14" transform="translate(0 7)" fill="none" stroke="#45afc3" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

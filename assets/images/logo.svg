@@ -1,0 +1,251 @@
+<svg id="icon-pro-loader" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 240.22 115.02" width="300">
+  <defs>
+    <linearGradient id="linear-gradient" x1="22.15" y1="95.78" x2="97.33" y2="20.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#43add2"/>
+      <stop offset="0.08" stop-color="#44aec9"/>
+      <stop offset="0.22" stop-color="#47b2b1"/>
+      <stop offset="0.39" stop-color="#4cb889"/>
+      <stop offset="0.5" stop-color="#50bc6c"/>
+      <stop offset="0.56" stop-color="#67bf60"/>
+      <stop offset="0.71" stop-color="#9ec743"/>
+      <stop offset="0.84" stop-color="#c6cc2e"/>
+      <stop offset="0.94" stop-color="#ded022"/>
+      <stop offset="1" stop-color="#e7d11d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="7.56" y1="110.3" x2="111.92" y2="5.93" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-dig-lines">
+       <path d="M55,15.78c-2.55,5-4.45,12-5.68,19.8q2.51,1,5.09,2.24c1.47-9.93,3.9-17.32,6.38-21.45C61.28,14.47,57.21,12.41,55,15.78ZM20.64,38.69l2.47-.57C29.6,36.83,44.81,40.55,63.92,52c2.55,1.53,5,3.07,7.22,4.61,1.61-1.13,3.14-2.25,4.57-3.36-2.92-2-5.95-4-9-5.84C51,38,35.8,32.53,26,32.52,19,32.31,17.18,37.63,20.64,38.69Zm0,39.11,2.47.46c4.24.84,12.22-.45,22.59-4.65.18,1.87.39,3.71.64,5.5C38.46,82.19,31.41,83.86,26,83.86,17,84.29,16,78.14,20.64,77.8ZM55,100.61C50.15,91,47.65,74.53,47.65,58.19c0-3.86.14-7.73.42-11.51,1.66.74,3.4,1.57,5.2,2.48-.17,2.87-.27,5.89-.27,9C53,78.5,56.82,93.43,60.8,100l1.26,1.91C64.12,108.05,57.31,108,55,100.61ZM98.84,75.34c-3-4.91-8.09-10.24-14.32-15.43q-2.14,1.73-4.38,3.36c8,6.55,13.11,12.61,15.21,16.89l1.05,2C98.49,84.59,101.85,80.87,98.84,75.34Zm-2.4-41.2-1.08,2.09C92.06,43,81.32,54,63.92,64.42q-4.06,2.43-7.87,4.4.21,3,.52,5.73c3.31-1.65,6.69-3.5,10.1-5.53,13.86-8.29,26.61-18.87,32.17-28C103.34,33.53,99.2,28.61,96.44,34.14Z" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-text">
+      <rect x="104.2" y="37.82" width="132.24" height="40.93" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="logo-part">
+    <g clip-path="url(#clip-text)">
+       <g id="text-part">
+          <g>
+            <rect x="115.85" y="45.03" width="2.88" height="25.23" fill="#fff"/>
+            <path d="M124.67,57.84c0,7.78,3,12.78,9.92,12.78,3.61,0,5.8-1.05,6.93-2.12l-1.6-2C139,67.31,137.55,68,135,68c-4.83,0-7.39-3.57-7.39-10.41,0-7.13,2.7-10.33,7.09-10.33A7.43,7.43,0,0,1,139.89,49l1.8-2.2c-.83-.72-2.85-2.08-6.69-2.08-6.73,0-10.33,4.89-10.33,13.17Zm0,0" fill="#fff"/>
+            <path d="M147.52,57.51c0-7.84,2.67-10.25,6.78-10.25s6.9,2.63,6.9,10.52S158.58,68,154.41,68s-6.89-2.63-6.89-10.52Zm16.64,0c0-9.28-3.68-12.84-9.66-12.84s-9.92,3.78-9.92,13.11,3.62,12.84,9.64,12.84,9.94-3.78,9.94-13.11Zm0,0" fill="#fff"/>
+            <path d="M172.7,48.45c.2.61,2.62,5.22,2.87,5.72l8.56,16.09h4V45h-2.7v14.9c0,.58,0,6,.06,6.77h-.25c-.22-.55-2.66-5.19-2.91-5.69l-8.5-16h-4V70.26h2.74V55.14c0-.89,0-6.16-.11-6.69Zm0,0" fill="#fff"/>
+            <path d="M197.64,45h-4.25v14.7h1.69V53.84h2.23c3.39,0,5.08-1.74,5.08-4.69s-1.84-4.2-4.75-4.2Zm-.39,1.48c2.23,0,3.41.82,3.41,2.92,0,1.94-.91,3-3.35,3h-2.23V46.43Zm0,0" fill="#fff"/>
+            <path d="M205.14,45v14.7h1.69V53.54H208A2.4,2.4,0,0,1,210.27,55l2.66,4.7h2l-2.71-4.59a4.12,4.12,0,0,0-1.78-1.89v-.08a3.76,3.76,0,0,0,3.31-4c0-2.93-1.84-4.12-4.9-4.12Zm1.69,1.48h1.78c2.22,0,3.42.78,3.42,2.83s-1.28,2.84-3.31,2.84h-1.89Zm0,0" fill="#fff"/>
+            <path d="M218.66,52.23c0-4.58,1.55-6,4-6s4,1.53,4,6.12-1.53,6-3.95,6-4-1.53-4-6.12Zm9.71,0c0-5.42-2.14-7.5-5.63-7.5S217,46.93,217,52.37s2.12,7.48,5.62,7.48,5.8-2.2,5.8-7.62Zm0,0" fill="#fff"/>
+            <rect x="115.85" y="45.03" width="2.88" height="25.23" fill="#fff"/>
+            <path d="M124.67,57.84c0,7.78,3,12.78,9.92,12.78,3.61,0,5.8-1.05,6.93-2.12l-1.6-2C139,67.31,137.55,68,135,68c-4.83,0-7.39-3.57-7.39-10.41,0-7.13,2.7-10.33,7.09-10.33A7.43,7.43,0,0,1,139.89,49l1.8-2.2c-.83-.72-2.85-2.08-6.69-2.08-6.73,0-10.33,4.89-10.33,13.17Zm0,0" fill="#fff"/>
+            <path d="M147.52,57.51c0-7.84,2.67-10.25,6.78-10.25s6.9,2.63,6.9,10.52S158.58,68,154.41,68s-6.89-2.63-6.89-10.52Zm16.64,0c0-9.28-3.68-12.84-9.66-12.84s-9.92,3.78-9.92,13.11,3.62,12.84,9.64,12.84,9.94-3.78,9.94-13.11Zm0,0" fill="#fff"/>
+            <path d="M172.7,48.45c.2.61,2.62,5.22,2.87,5.72l8.56,16.09h4V45h-2.7v14.9c0,.58,0,6,.06,6.77h-.25c-.22-.55-2.66-5.19-2.91-5.69l-8.5-16h-4V70.26h2.74V55.14c0-.89,0-6.16-.11-6.69Zm0,0" fill="#fff"/>
+          </g>
+          <g>
+            <path d="M197.64,45h-4.25v14.7h1.69V53.84h2.23c3.39,0,5.08-1.74,5.08-4.69s-1.84-4.2-4.75-4.2Zm-.39,1.48c2.23,0,3.41.82,3.41,2.92,0,1.94-.91,3-3.35,3h-2.23V46.43Zm0,0" fill="#fff"/>
+            <path d="M205.14,45v14.7h1.69V53.54H208A2.4,2.4,0,0,1,210.27,55l2.66,4.7h2l-2.71-4.59a4.12,4.12,0,0,0-1.78-1.89v-.08a3.76,3.76,0,0,0,3.31-4c0-2.93-1.84-4.12-4.9-4.12Zm1.69,1.48h1.78c2.22,0,3.42.78,3.42,2.83s-1.28,2.84-3.31,2.84h-1.89Zm0,0" fill="#fff"/>
+            <path d="M218.66,52.23c0-4.58,1.55-6,4-6s4,1.53,4,6.12-1.53,6-3.95,6-4-1.53-4-6.12Zm9.71,0c0-5.42-2.14-7.5-5.63-7.5S217,46.93,217,52.37s2.12,7.48,5.62,7.48,5.8-2.2,5.8-7.62Zm0,0" fill="#fff"/>
+          </g>
+       </g>
+    </g>
+    <g id="hex-lines">
+      <path d="M59.74,106.45,18,82.32V34.06L59.74,9.93" fill="none" stroke="url(#linear-gradient-2)" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.36" stroke-dasharray="145" stroke-dashoffset="145"></path>
+      <path d="M59.74,106.45l41.8-24.13V34.06L59.74,9.93" fill="none" stroke="url(#linear-gradient-2)" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.36" stroke-dasharray="145" stroke-dashoffset="145"></path>
+    </g>
+    <g id="points">
+      <circle cx="59.74" cy="106.44" r="6.49" fill="url(#linear-gradient-2)"/>
+      <circle cx="17.92" cy="82.34" r="6.49" fill="url(#linear-gradient-2)"/>
+      <circle cx="101.52" cy="82.24" r="6.49" fill="url(#linear-gradient-2)"/>
+      <circle cx="17.96" cy="34.06" r="6.49" fill="url(#linear-gradient-2)"/>
+      <circle cx="101.52" cy="34.07" r="6.49" fill="url(#linear-gradient-2)"/>
+      <circle cx="59.74" cy="9.94" r="6.49" fill="url(#linear-gradient-2)"/>
+    </g>
+    <g id="dig-lines" clip-path="url(#clip-dig-lines)">
+      <path d="M18,35.13C41.8,32,87.08,57.51,100.47,83" fill="none" stroke="url(#linear-gradient-2)" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6.5" stroke-dasharray="100" stroke-dashoffset="100"></path>
+      <path d="M99.93,32.73c-8,21.6-52.57,50.47-82,48.69" fill="none" stroke="url(#linear-gradient-2)" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6.5" stroke-dasharray="100" stroke-dashoffset="100"></path>
+      <path d="M61.24,105.28c-13.5-17.55-16.4-76.39.91-95.37" fill="none" stroke="url(#linear-gradient-2)" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6.5" stroke-dasharray="100" stroke-dashoffset="100"></path>
+    </g>
+  </g>
+  <style>
+      #icon-pro-loader #points > circle {
+        -webkit-transform: scale(0.01, 0.01);
+            -ms-transform: scale(0.01, 0.01);
+                transform: scale(0.01, 0.01);
+        opacity: 0;
+        -webkit-animation: scaleIn 1s ease-in-out forwards;
+                animation: scaleIn 1s ease-in-out forwards;
+      }
+
+      #icon-pro-loader #points > circle:nth-child(1) {
+        -webkit-transform-origin: 59.74px 106.44px;
+            -ms-transform-origin: 59.74px 106.44px;
+                transform-origin: 59.74px 106.44px;
+        -webkit-animation-delay: 0.1s;
+                animation-delay: 0.1s;
+      }
+      #icon-pro-loader #points > circle:nth-child(2) {
+        -webkit-transform-origin: 17.92px 82.34px;
+            -ms-transform-origin: 17.92px 82.34px;
+                transform-origin: 17.92px 82.34px;
+        -webkit-animation-delay: 0.3s;
+                animation-delay: 0.3s;
+      }
+      #icon-pro-loader #points > circle:nth-child(3) {
+        -webkit-transform-origin: 101.52px 82.24px;
+            -ms-transform-origin: 101.52px 82.24px;
+                transform-origin: 101.52px 82.24px;
+        -webkit-animation-delay: 0.3s;
+                animation-delay: 0.3s;
+      }
+      #icon-pro-loader #points > circle:nth-child(4) {
+        -webkit-transform-origin: 17.96px 34.06px;
+            -ms-transform-origin: 17.96px 34.06px;
+                transform-origin: 17.96px 34.06px;
+        -webkit-animation-delay: 0.5s;
+                animation-delay: 0.5s;
+      }
+      #icon-pro-loader #points > circle:nth-child(5) {
+        -webkit-transform-origin: 101.52px 34.07px;
+            -ms-transform-origin: 101.52px 34.07px;
+                transform-origin: 101.52px 34.07px;
+        -webkit-animation-delay: 0.5s;
+                animation-delay: 0.5s;
+      }
+      #icon-pro-loader #points > circle:nth-child(6) {
+        -webkit-transform-origin: 59.74px 9.94px;
+            -ms-transform-origin: 59.74px 9.94px;
+                transform-origin: 59.74px 9.94px;
+        -webkit-animation-delay: 0.7s;
+                animation-delay: 0.7s;
+      }
+
+      #icon-pro-loader #hex-lines > path {
+        -webkit-animation:  drawIn 1.5s ease-in-out 0.3s forwards;
+                animation:  drawIn 1.5s ease-in-out 0.3s forwards;
+      }
+      #icon-pro-loader #dig-lines > path {
+        -webkit-animation:  drawIn 1.2s ease-in-out 0.7s forwards;
+                animation:  drawIn 1.2s ease-in-out 0.7s forwards;
+      }
+
+      <!-- #icon-pro-loader #logo-part {
+        -webkit-transform: translate(60px, 0px);
+            -ms-transform: translate(60px, 0px);
+                transform: translate(60px, 0px);
+        -webkit-animation:  moveIn 1s ease-in-out 1.5s forwards;
+                animation:  moveIn 1s ease-in-out 1.5s forwards;
+      }
+
+      #icon-pro-loader #text-part {
+        -webkit-transform: translate(-100px, 0px);
+            -ms-transform: translate(-100px, 0px);
+                transform: translate(-100px, 0px);
+        -webkit-animation:  moveIn 1s ease-in-out 1.5s forwards;
+                animation:  moveIn 1s ease-in-out 1.5s forwards;
+      } -->
+
+
+      @-webkit-keyframes scaleIn {
+        0% {
+          opacity: 0;
+          -webkit-transform: scale(0.01, 0.01);
+                  transform: scale(0.01, 0.01);
+        }
+        10% {
+          opacity: 1;
+        }
+        100% {
+          opacity: 1;
+          -webkit-transform: scale(1, 1);
+                  transform: scale(1, 1);
+        }
+      }
+
+
+      @keyframes scaleIn {
+        0% {
+          opacity: 0;
+          -webkit-transform: scale(0.01, 0.01);
+                  transform: scale(0.01, 0.01);
+        }
+        10% {
+          opacity: 1;
+        }
+        100% {
+          opacity: 1;
+          -webkit-transform: scale(1, 1);
+                  transform: scale(1, 1);
+        }
+      }
+
+      @-webkit-keyframes drawIn {
+        to {
+          stroke-dashoffset:  0px;
+        }
+      }
+
+      @keyframes drawIn {
+        to {
+          stroke-dashoffset:  0px;
+        }
+      }
+
+      <!-- @-webkit-keyframes moveIn {
+        to {
+          opacity: 1;
+          -webkit-transform: translate(0px, 0px);
+                  transform: translate(0px, 0px);
+        }
+      }
+
+      @keyframes moveIn {
+        to {
+          opacity: 1;
+          -webkit-transform: translate(0px, 0px);
+                  transform: translate(0px, 0px);
+        }
+      } -->
+
+
+#icon-pro-loader:hover #points > circle {
+  -webkit-transform: scale(0.01, 0.01);
+      -ms-transform: scale(0.01, 0.01);
+          transform: scale(0.01, 0.01);
+  opacity: 0;
+  -webkit-animation: scaleIn 1s ease-in-out forwards;
+          animation: scaleIn1 1s ease-in-out forwards;
+}
+
+#icon-pro-loader:hover #hex-lines > path {
+          animation:  drawIn1 1.5s ease-in-out 0.3s forwards;
+}
+#icon-pro-loader:hover #dig-lines > path {
+          animation:  drawIn1 1.2s ease-in-out 0.7s forwards;
+}
+
+
+
+
+@keyframes scaleIn1 {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale(0.01, 0.01);
+            transform: scale(0.01, 0.01);
+  }
+  10% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: scale(1, 1);
+            transform: scale(1, 1);
+  }
+}
+
+@keyframes drawIn1 {
+  to {
+    stroke-dashoffset:  0px;
+  }
+}
+
+
+
+
+
+  </style>
+</svg>
